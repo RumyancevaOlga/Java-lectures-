@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-25T11:39:37.857265400Z</date>
+  <millis>1669376377857</millis>
+  <nanos>265400</nanos>
+  <sequence>0</sequence>
+  <logger>Lesson2.program</logger>
+  <level>WARNING</level>
+  <class>Lesson2.program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование 1</message>
+</record>
+<record>
+  <date>2022-11-25T11:39:37.903243600Z</date>
+  <millis>1669376377903</millis>
+  <nanos>243600</nanos>
+  <sequence>1</sequence>
+  <logger>Lesson2.program</logger>
+  <level>INFO</level>
+  <class>Lesson2.program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование 2</message>
+</record>
+</log>

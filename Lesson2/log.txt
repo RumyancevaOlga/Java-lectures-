@@ -1,0 +1,4 @@
+нояб. 25, 2022 2:39:08 PM Lesson2.program main
+WARNING: Тестовое логирование 1
+нояб. 25, 2022 2:39:08 PM Lesson2.program main
+INFO: Тестовое логирование 2
